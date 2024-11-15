@@ -1,0 +1,1 @@
+PATH = r"carpeta/archivo.txt"
